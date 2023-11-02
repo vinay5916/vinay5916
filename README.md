@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img align="right" width= "300px" height="300px" src="https://github.com/vinay5916" >
+ <img align="right" width= "300px" height="300px" src="https://github.com/abhi7889/abhi7889/assets/91309664/8f374582-0878-4864-8d23-7611847e43ab" >
  
 - 🔭 &nbsp; I’m currently learning MERN Stack.
 - 🤔 &nbsp; Exploring new technologies.
