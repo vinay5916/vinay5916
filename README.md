@@ -52,7 +52,7 @@
 
 # Languages
 
-<img align="right"   src="https://github-readme-stats.vercel.app/api?username=abhi7889&theme=github_dark&show_icons=true">
+<img align="right"   src="https://github-readme-stats.vercel.app/api?username=vinay5916&theme=github_dark&show_icons=true">
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
