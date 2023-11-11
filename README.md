@@ -4,8 +4,8 @@
 - 🔭 &nbsp; I’m currently learning MERN Stack.
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science.
-- 💼 &nbsp; Front-end web developer and Android developer.
-- 🌱 &nbsp; Enthusiast in Cyber Security.
+- 💼 &nbsp; Front-end web developer and penetration tester.
+- 🌱 &nbsp; Enthusiast in Cyber & Info Security.
 
 
 <h1 align="left">
@@ -13,18 +13,18 @@
   
 <p align="left">
   <br/>
-  <a href="https://www.linkedin.com/in/abhishek-sharma-0b4013207/">
+  <a href="[https://www.linkedin.com/in/abhishek-sharma-0b4013207/](https://www.linkedin.com/in/vadrevu-vinay-kumar-a4295a208/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="https://github.com/abhi7889">
+  <a href="https://github.com/vinay5916">
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">
     
 
   </a>
 
  
-  <a href="https://www.instagram.com/abhi_pangotra">
+  <a href="https://www.instagram.com/avenger5916">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
   </a>
 
@@ -35,7 +35,7 @@
 
 ## 🔧 Technologies & Tools
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi7889&theme=dracula">
+<img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinay5916&theme=dracula">
 
 ### Frontend
 
@@ -47,11 +47,6 @@
 
 <!---![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)--->
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-
-
-### Mobile
-
-![Flutter](https://img.shields.io/badge/-flutter-1d1d1d?style=flat-square&logo=flutter)
 
 
 
