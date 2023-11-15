@@ -2,10 +2,10 @@
  <img align="right" width= "300px" height="300px" src="https://github.com/abhi7889/abhi7889/assets/91309664/8f374582-0878-4864-8d23-7611847e43ab" >
  
 - 🔭 &nbsp; I’m currently learning MERN Stack.
-- 🤔 &nbsp; Exploring new technologies.
+- 🤔 &nbsp; Enthusiast in Cyber & Info Security | Cyber Sentinels
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer and penetration tester.
-- 🌱 &nbsp; Enthusiast in Cyber & Info Security.
+- 🌱 &nbsp; Exploring new technologies.
 
 >&nbsp; https://retr0x.hashnode.dev/
 
