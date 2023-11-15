@@ -15,7 +15,7 @@
   
 <p align="left">
   <br/>
-  <a href="[https://www.linkedin.com/in/vadrevu-vinay-kumar-a4295a208/]">
+  <a href="https://www.linkedin.com/in/vadrevu-vinay-kumar-a4295a208/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
