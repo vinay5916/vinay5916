@@ -3,7 +3,7 @@
  
 - 🔭 &nbsp; I’m currently learning MERN Stack.
 - 🤔 &nbsp; Enthusiast in Cyber & Info Security | Cyber Sentinels
-- 🎓 &nbsp; Studying Computer Science.
+- 🎓 &nbsp; Computer Science Student.
 - 💼 &nbsp; Web developer | penetration tester.
 - 🌱 &nbsp; Exploring new technologies.
 
