@@ -6,6 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer and penetration tester.
 - 🌱 &nbsp; Enthusiast in Cyber & Info Security.
+- &nbsp; https://retr0x.hashnode.dev/
 
 
 <h1 align="left">
