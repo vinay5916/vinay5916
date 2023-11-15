@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer and penetration tester.
 - 🌱 &nbsp; Enthusiast in Cyber & Info Security.
-- &nbsp; https://retr0x.hashnode.dev/
+  >&nbsp; https://retr0x.hashnode.dev/
 
 
 <h1 align="left">
@@ -14,7 +14,7 @@
   
 <p align="left">
   <br/>
-  <a href="[https://www.linkedin.com/in/abhishek-sharma-0b4013207/][https://www.linkedin.com/in/vadrevu-vinay-kumar-a4295a208/]">
+  <a href="[https://www.linkedin.com/in/vadrevu-vinay-kumar-a4295a208/]">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
