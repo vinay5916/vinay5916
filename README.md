@@ -1,7 +1,7 @@
 ### Hi there 👋
  <img align="right" width= "300px" height="300px" src="https://github.com/abhi7889/abhi7889/assets/91309664/8f374582-0878-4864-8d23-7611847e43ab" >
  
-- 🔭 &nbsp; I’m currently learning MERN Stack & Pentesting.
+- 🔭 &nbsp; I’m currently learning Pentesting & MERN Stack.
 - 🤔 &nbsp; Enthusiast in Cyber & Info Security | Cyber Sentinels
 - 🎓 &nbsp; Computer Science Student.
 - 💼 &nbsp; Web developer | penetration tester.
