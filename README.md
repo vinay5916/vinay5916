@@ -9,7 +9,6 @@
 
 >&nbsp; https://retr0x.hashnode.dev/
 
-##### Hacker by night, coder by day - mastering the art of breaking and building (or at least making a heroic attempt)!
 
 <h1 align="left">
 ✨ Where you can find me ✨
