@@ -4,7 +4,7 @@
 - 🔭 &nbsp; I’m currently learning Pentesting & MERN Stack.
 - 🤔 &nbsp; Enthusiast in Cyber & Info Security | Cyber Sentinels
 - 🎓 &nbsp; Computer Science Student.
-- 💼 &nbsp; Web developer | penetration tester.
+- 💼 &nbsp; Web developer | Penetration tester.
 - 🌱 &nbsp; Exploring new technologies.
 
 >&nbsp; https://retr0x.hashnode.dev/
